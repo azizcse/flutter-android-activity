@@ -30,5 +30,6 @@
             </intent-filter>
         </activity>
         <activity android:name=".SecondActivity"/>
+        <activity android:name=".BarcodeScannerActivity" />
     </application>
 </manifest>
